@@ -1,5 +1,6 @@
 # TeslaTradingstrategy
 
+A simple strategy.
 The main components of the project are as follows:
 
 Obtain daily stock price data for Tesla.
